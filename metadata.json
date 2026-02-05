@@ -1,0 +1,8 @@
+
+{
+  "name": "Industrial Asset Inspector",
+  "description": "Professional tool for site inspections with offline support, persistence, and photo annotation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
